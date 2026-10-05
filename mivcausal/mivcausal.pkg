@@ -1,5 +1,12 @@
-D 'xtregbem': Between Effects Panel Data Ridge and Weighted Regression Use xtregbem
+D 'mivcausal': A command for testing the hypothesis about the signs of the 2SLS weights Use mivcausal With STATA 19
 D
-F xtregbem.ado
-F xtregbem.dlg
-F xtregbem.sthlp
+F mivbon.ado
+F mivcausal.ado
+F mivcausal.sthlp
+F mivchecks.ado
+F mivcs.ado
+F miviut.ado
+F mivmint.ado
+F mivreg.ado
+F mivrsw.ado
+F mivvars.ado
