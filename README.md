@@ -1,6 +1,8 @@
 # mivcausal
 A command for testing the hypothesis about the signs of the 2SLS weights Use mivcausal With STATA 19
 
+https://www.youtube.com/watch?v=qZi1FCmavPs
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
